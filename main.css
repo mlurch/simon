@@ -79,29 +79,29 @@ footer a {
 .button-top-left {
     border-radius: 100% 0 0 0;
     margin: 20px 0 0 20px;
-    background-color: rgb(229, 155, 207);
-    border: thick solid rgb(177, 42, 166);
+    background-color: green;
+    border: thick solid rgb(36,53,0);
 }
 
 .button-top-right {
     border-radius: 0 100% 0 0;
     margin: 20px 20px 0 0;
-    background-color: rgb(158, 246, 180);
-    border: thick solid rgb(17, 85, 34);
+    background-color: red;
+    border: thick solid rgb(83,12,12);
 }
 
 .button-bottom-left {
     border-radius: 0 0 0 100%;
     margin: 0 0 20px 20px;
-    background-color: rgb(152, 171, 233);
-    border: thick solid rgb(40, 59, 121);
+    background-color: yellow;
+    border: thick solid rgb(130,124,13);
 }
 
 .button-bottom-right {
     border-radius: 0 0 100% 0;
     margin: 0 20px 20px 0;    
-    background-color: rgb(198, 139, 233);
-    border: thick solid rgb(88, 25, 104);
+    background-color: blue;
+    border: thick solid rgb(27,14,100);
 }
 
 .controls {
